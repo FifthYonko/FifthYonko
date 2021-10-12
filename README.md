@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FifthYonko
-- 👀 I’m interested in Physics , Programming Video Games 
+- 👀 I’m interested in Physics , Programming,Video Games 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me : you don't . I will!
